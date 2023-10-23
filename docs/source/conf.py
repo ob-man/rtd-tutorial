@@ -14,17 +14,26 @@ version = '0.1.0'
 extensions = [
 ]
 
-intersphinx_mapping = {
-}
-intersphinx_disabled_domains = ['std']
-
 templates_path = ['_templates']
+
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
+pygments_style = None
 
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
 
+html_static_path = ['_static']
+
+latex_elements = {
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+epub_title = project
+
+epub_exclude_files = ['search.html']
 
 html_favicon = "img/favicon.png"
