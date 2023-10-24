@@ -35,3 +35,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 html_favicon = "img/favicon.png"
+html_logo = "img/logo.svg"
