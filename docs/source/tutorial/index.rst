@@ -23,13 +23,13 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Для початку `увійдіть до GitHub <https://github.com/login>`_
-і перейдіть `до навчального шаблону GitHub <https://github.com/readthedocs/tutorial-template/>`_`,
+і перейдіть `до навчального шаблону GitHub <https://github.com/readthedocs/tutorial-template/>`_,
 де ви побачите зелену кнопку :guilabel:`Use this template`.
 Натисніть її, щоб відкрити нову сторінку, яка запитає вас про деякі деталі:
 
-* Leave the default "Owner", or change it to something better for a tutorial project.
-* Introduce an appropriate "Repository name", for example ``rtd-tutorial``.
-* Make sure the project is "Public", rather than "Private".
+* Залиште значення "Owner" за замовчуванням або змініть його на щось краще для навчального проекту.
+* Введіть відповідну назву "Repository name", наприклад ``rtd-tutorial``.
+* Переконайтеся, що проект є "Public", а не "Private".
 
 After that, click on the green :guilabel:`Create repository from template` button,
 which will generate a new repository on your personal account
