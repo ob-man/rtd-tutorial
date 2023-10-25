@@ -31,30 +31,28 @@
 * Введіть відповідну назву "Repository name", наприклад ``rtd-tutorial``.
 * Переконайтеся, що проект є "Public", а не "Private".
 
-After that, click on the green :guilabel:`Create repository from template` button,
-which will generate a new repository on your personal account
-(or the one of your choosing).
-This is the repository you will import on Read the Docs,
-and it contains the following files:
+Після цього натисніть на зелену кнопку :guilabel:`Create repository from template`,
+яка створить нове сховище у вашому особистому кабінеті (або у вибраному вами).
+Це сховище, яке ви імпортуєте на Read the Docs, і воно містить наступні файли:
 
 ``.readthedocs.yaml``
-  Read the Docs configuration file.
-  Required to setup the documentation build process.
+  Конфігураційний файл Read the Docs.
+  Необхідний для налаштування процесу створення документації.
 
 ``README.rst``
-  Basic description of the repository, you will leave it untouched.
+  Базовий опис сховища ви залишите недоторканим.
 
 ``pyproject.toml``
-  Python project metadata that makes it installable.
-  Useful for automatic documentation generation from sources.
+  Метадані проекту Python, які роблять його інстальованим.
+  Корисно для автоматичної генерації документації з вихідних текстів.
 
 ``lumache.py``
-  Source code of the fictional Python library.
+  Початковий код вигаданої бібліотеки Python.
 
 ``docs/``
-  Directory holding all the Sphinx documentation sources,
-  including the Sphinx configuration ``docs/source/conf.py``
-  and the root document ``docs/source/index.rst`` written in reStructuredText.
+  Тека з усіма джерелами документації Sphinx,
+  включаючи конфігураційний файл Sphinx ``docs/source/conf.py``
+  та кореневий документ ``docs/source/index.rst`` написаний на reStructuredText.
 
 .. figure:: /_static/images/tutorial/github-template.png
    :width: 80%
