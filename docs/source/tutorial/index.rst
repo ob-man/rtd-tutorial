@@ -1,16 +1,16 @@
-Read the Docs tutorial
-======================
+Read the Docs підручник
+=======================
 
-In this tutorial you will create a documentation project on Read the Docs
-by importing a Sphinx project from a GitHub repository,
-tailor its configuration, and explore several useful features of the platform.
+У цьому підручнику ви створите проект документації на Read the Docs,
+імпортувавши проект Sphinx із репозиторію GitHub, налаштуєте його конфігурацію
+та вивчите кілька корисних функцій платформи.
 
-The tutorial is aimed at people interested in learning
-how to use Read the Docs to host their documentation projects.
-You will fork a fictional software library
-similar to the one developed in the :doc:`official Sphinx tutorial <sphinx:tutorial/index>`.
-No prior experience with Sphinx is required
-and you can follow this tutorial without having done the Sphinx one.
+Посібник призначений для тих, хто зацікавлений у тому, щоб навчитися
+використовувати Read the Docs для розміщення своїх проектів документації.
+Ви створите вигадану програмну бібліотеку, подібну до тієї,
+що розроблена в офіційному підручнику зі Sphinx. :doc:`офіційному підручнику Sphinx <sphinx:tutorial/index>`.
+Попередній досвід роботи зі Sphinx не потрібен і ви можете
+використовувати цей підручник, не маючи досвіду роботи зі Sphinx.
 
 The only things you will need are
 a web browser, an Internet connection, and a GitHub account
