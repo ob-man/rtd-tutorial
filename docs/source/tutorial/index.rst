@@ -13,7 +13,7 @@
 використовувати цей підручник, не маючи досвіду роботи зі Sphinx.
 
 Єдине, що вам знадобиться - це веб-браузер, підключення до Інтернету та обліковий запис на GitHub
-(ви можете `зареєструвати безкоштовний акаунт<https://github.com/signup>`_, якщо у вас його ще немає).
+(ви можете `зареєструвати безкоштовний акаунт <https://github.com/signup>`_, якщо у вас його ще немає).
 Ви будете використовувати Read the Docs Community, а це означає, що проект буде публічним.
 
 Початок роботи
@@ -22,10 +22,10 @@
 Підготовка проекту на GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To start, `sign in to GitHub <https://github.com/login>`_
-and navigate to `the tutorial GitHub template <https://github.com/readthedocs/tutorial-template/>`_,
-where you will see a green :guilabel:`Use this template` button.
-Click it to open a new page that will ask you for some details:
+Для початку `увійдіть до GitHub <https://github.com/login>`_
+і перейдіть `до навчального шаблону GitHub <https://github.com/readthedocs/tutorial-template/>`_`,
+де ви побачите зелену кнопку :guilabel:`Use this template`.
+Натисніть її, щоб відкрити нову сторінку, яка запитає вас про деякі деталі:
 
 * Leave the default "Owner", or change it to something better for a tutorial project.
 * Introduce an appropriate "Repository name", for example ``rtd-tutorial``.
