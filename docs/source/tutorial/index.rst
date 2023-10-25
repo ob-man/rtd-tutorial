@@ -59,10 +59,10 @@
    :align: center
    :alt: GitHub template for the tutorial
 
-   GitHub template for the tutorial
+   GitHub шаблон для підручника
 
-Sign up for Read the Docs
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Зареєструватися на Read the Docs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To sign up for a Read the Docs account,
 navigate to the `Sign Up page <https://readthedocs.org/accounts/signup/>`_
