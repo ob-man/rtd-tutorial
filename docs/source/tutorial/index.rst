@@ -1,4 +1,4 @@
-Read the Docs підручник
+Підручник Read the Docs
 =======================
 
 У цьому підручнику ви створите проект документації на Read the Docs,
@@ -8,20 +8,19 @@ Read the Docs підручник
 Посібник призначений для тих, хто зацікавлений у тому, щоб навчитися
 використовувати Read the Docs для розміщення своїх проектів документації.
 Ви створите вигадану програмну бібліотеку, подібну до тієї,
-що розроблена в офіційному підручнику зі Sphinx. :doc:`офіційному підручнику Sphinx <sphinx:tutorial/index>`.
+що розроблена в :doc:`офіційному підручнику Sphinx <sphinx:tutorial/index>`.
 Попередній досвід роботи зі Sphinx не потрібен і ви можете
 використовувати цей підручник, не маючи досвіду роботи зі Sphinx.
 
-The only things you will need are
-a web browser, an Internet connection, and a GitHub account
-(you can `register for a free account <https://github.com/signup>`_ if you don't have one).
-You will use Read the Docs Community, which means that the project will be public.
+Єдине, що вам знадобиться - це веб-браузер, підключення до Інтернету та обліковий запис на GitHub
+(ви можете `зареєструвати безкоштовний акаунт<https://github.com/signup>`_, якщо у вас його ще немає).
+Ви будете використовувати Read the Docs Community, а це означає, що проект буде публічним.
 
-Getting started
----------------
+Початок роботи
+--------------
 
-Preparing your project on GitHub
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Підготовка проекту на GitHub
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To start, `sign in to GitHub <https://github.com/login>`_
 and navigate to `the tutorial GitHub template <https://github.com/readthedocs/tutorial-template/>`_,
