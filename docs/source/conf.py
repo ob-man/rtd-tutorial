@@ -14,7 +14,7 @@ version = '0.1.0'
 import os
 import sys
 
-from multiproject.utils import get_project
+#from multiproject.utils import get_project
 
 sys.path.append(os.path.abspath("_ext"))
 extensions = [
