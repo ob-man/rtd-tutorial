@@ -12,12 +12,28 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    "hoverxref.extension",
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
+ #   'sphinx.ext.duration',
+ #   'sphinx.ext.doctest',
+ #   'sphinx.ext.autodoc',
+ #   'sphinx.ext.autosummary',
+ #   'sphinx.ext.intersphinx',
+    'hoverxref.extension',
+    'multiproject',
+    'myst_parser',
+    'notfound.extension',
+    'sphinx_copybutton',
+    'sphinx_design',
+    'sphinx_search.extension',
+    'sphinx_tabs.tabs',
+    'sphinx-prompt',
     'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
+    'sphinx.ext.autosectionlabel',
+    'sphinx.ext.extlinks',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.httpdomain',
+    'sphinxcontrib.video',
+    'sphinxemoji.sphinxemoji',
+    'sphinxext.opengraph',
 ]
 
 intersphinx_mapping = {
