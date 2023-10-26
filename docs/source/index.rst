@@ -21,3 +21,6 @@ Contents
    usage
    api
    /tutorial/index
+   /guides/setup/index
+   /guides/setup/git-repo-automatic
+   glossary
