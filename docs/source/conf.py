@@ -24,7 +24,7 @@ extensions = [
  #   'sphinx.ext.autosummary',
  #   'sphinx.ext.intersphinx',
     'hoverxref.extension',
-    'multiproject',
+#    'multiproject',
     'myst_parser',
     'notfound.extension',
     'sphinx_copybutton',
